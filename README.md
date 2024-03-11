@@ -53,8 +53,4 @@ behave
 
 The API is using MongoDB
 
-## Additional Resources
-
-Additional resources such as API documentation and sample requests can be found in the `docs` folder.
-
 ```
